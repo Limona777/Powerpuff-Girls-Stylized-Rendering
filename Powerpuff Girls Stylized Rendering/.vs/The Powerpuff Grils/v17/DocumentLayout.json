@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\project\\The Powerpuff Grils\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|d:\\unity\\project\\the powerpuff grils\\assets\\shader\\comicshader2.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\comicshader2.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\basicfurshader_kk.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\basicfurshader_kk.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\speedlinepostprocessshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\speedlinepostprocessshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\scripts\\speedlinepostprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speedlinepostprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\furshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\furshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\outlineshader1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\outlineshader1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\outlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\outlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\scripts\\mobiusposteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mobiusposteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\moebiusshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\moebiusshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\speedlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\speedlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|D:\\unity\\project\\The Powerpuff Grils\\assets\\shader\\comicshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEE3AE3-C64B-B90A-2DA4-10C3AC16F37F}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\comicshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicFurShader_KK.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\BasicFurShader_KK.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\BasicFurShader_KK.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\BasicFurShader_KK.shader",
+              "RelativeToolTip": "Assets\\Shader\\BasicFurShader_KK.shader",
+              "ViewState": "AQIAAEwFAAAAAAAAAAAQwJUFAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-07-25T05:08:14.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FurShader.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\FurShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\FurShader.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\FurShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\FurShader.shader",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-07-25T04:59:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutlineShader.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\OutlineShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\OutlineShader.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\OutlineShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\OutlineShader.shader",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-07-20T14:23:34.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MobiusPostEffect.cs",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Scripts\\MobiusPostEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MobiusPostEffect.cs",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Scripts\\MobiusPostEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MobiusPostEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:54:48.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoebiusShader.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\MoebiusShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\MoebiusShader.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\MoebiusShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\MoebiusShader.shader",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowFsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-17T08:52:02.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeedLinePostProcessShader.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-13T14:31:32.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeedLinePostProcess.cs",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:22:13.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComicShader2.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\ComicShader2.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\ComicShader2.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\ComicShader2.shader",
+              "RelativeToolTip": "Assets\\Shader\\ComicShader2.shader",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAQwEsBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-09T14:42:11.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutlineShader1.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\OutlineShader1.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\OutlineShader1.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\OutlineShader1.shader",
+              "RelativeToolTip": "Assets\\Shader\\OutlineShader1.shader",
+              "ViewState": "AQIAAB8AAAAAAAAAAABAwAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-07-20T14:25:14.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpeedLineShader.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\SpeedLineShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\SpeedLineShader.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\SpeedLineShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\SpeedLineShader.shader",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-10T13:39:42.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComicShader.shader",
+              "DocumentMoniker": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\ComicShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\ComicShader.shader",
+              "ToolTip": "D:\\unity\\project\\The Powerpuff Grils\\Assets\\Shader\\ComicShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\ComicShader.shader",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAowMAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-09T14:26:48.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

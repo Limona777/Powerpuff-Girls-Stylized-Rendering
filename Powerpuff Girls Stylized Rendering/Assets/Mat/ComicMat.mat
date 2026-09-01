@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ComicMat
+  m_Shader: {fileID: 4800000, guid: 9dcb0221a0e448946b97fc2b890ad135, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - ENABLE_BREAK
+  - ENABLE_DISTORTION
+  - ENABLE_HANDDRAWN
+  - ENABLE_THICKNESS_RANDOM
+  - _ENABLEWHITEDOTS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EdgeNoiseTex:
+        m_Texture: {fileID: 2800000, guid: 1c75cb5c488249a4aa71172af17d9d80, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FineLineMask:
+        m_Texture: {fileID: 2800000, guid: 1a64955130f2c1546bdde665bdb835fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FineLineNoise:
+        m_Texture: {fileID: 2800000, guid: 8848b57639d17764aa76982136db210e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HatchRandomNoise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LineEdgeNoise:
+        m_Texture: {fileID: 2800000, guid: 3c1361f48c62a7f4db4121d62899f908, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 8848b57639d17764aa76982136db210e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowDistortTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SingleHatchRandomNoise:
+        m_Texture: {fileID: 2800000, guid: 1c75cb5c488249a4aa71172af17d9d80, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonNoiseTex:
+        m_Texture: {fileID: 2800000, guid: 8848b57639d17764aa76982136db210e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Angle: -46
+    - _BreakAmount: 0.298
+    - _BumpScale: 1
+    - _CrossAngle1: 85
+    - _CrossAngle2: 128
+    - _CrossDensity: 191.2
+    - _CrossThickness: 0.633
+    - _CutAmount: 0.556
+    - _Cutoff: 0.5
+    - _DarkLineAngle: -29
+    - _DarkStep: 0.15
+    - _DebugShowEdgeMask: 0
+    - _DeepShadow: 0.709
+    - _Density: 80
+    - _DetailNormalMapScale: 1
+    - _DistortIntensity: 0.553
+    - _DistortScale: 0.1
+    - _DistortionIntensity: 0.274
+    - _DstBlend: 0
+    - _EdgeDetailStrength: 0.086
+    - _EdgeDistortIntensity: 0.026
+    - _EdgeDistortOctaves: 2.34
+    - _EdgeDistortScale: 27.9
+    - _EdgeNoiseIntensity: 1
+    - _EdgeNoiseScale: 0.07
+    - _EnableBreak: 1
+    - _EnableDistortion: 1
+    - _EnableHandDrawn: 1
+    - _EnableThicknessRandom: 1
+    - _EnableWhiteDots: 1
+    - _FineAngleStrength: 0.376
+    - _FineLineAngle: 58
+    - _FineLineDensity: 180
+    - _FineLineEnable: 0.528
+    - _FineLineMaskScale: 1.65
+    - _FineLineStrength: 0.849
+    - _FineLineThickness: 0.2
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HalftoneBaseSize: 0.562
+    - _HalftoneContrast: 1
+    - _HalftoneDensity: 52.5
+    - _HalftoneSize: 0.661
+    - _HatchDensity: 10000
+    - _HatchIntensity: 1
+    - _HatchRandomScale: 5
+    - _HatchRandomStrength: 0.5
+    - _HatchThickness: 0.1
+    - _LightStep: 0.7
+    - _LineAngle: 81
+    - _LineDensity: 112.9
+    - _LineEdgeIntensity: 0.411
+    - _LineEdgeNoiseScale: 14.23
+    - _LineEdgeRoughness: 0.023
+    - _LineEdgeSoftness: 0.3
+    - _LineRandomEdgeEnable: 1
+    - _LineStrength: 0.851
+    - _LineThickness: 0.669
+    - _LineThicknessGradient: 0
+    - _LineToBrightSmooth: 0.063
+    - _LineWaveFrequency: 4.3
+    - _LineWaveIntensity: 0.199
+    - _Metallic: 0
+    - _MidShadow: 0.805
+    - _MidStep: 0.4
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OriginDist: 1
+    - _OutlineWidth: 0.0003
+    - _Parallax: 0.02
+    - _Ramp1: 0.493
+    - _Ramp2: 0.659
+    - _RampThreshold: 0.815
+    - _ScatterDensity: 160
+    - _ScatterStrength: 0.4
+    - _ScatterThick: 0.0763
+    - _ShadowBreakAmount: 1
+    - _ShadowBreakDotSize: 0.15
+    - _ShadowBreakLength: 0.1
+    - _ShadowBreakWidth: 0.8
+    - _ShadowDistortIntensity: 0
+    - _ShadowDistortScale: 1
+    - _ShadowHatchWidth: 0.05
+    - _ShadowIntensity: 0.764
+    - _ShadowLineThick: 0.0368
+    - _ShadowLineThickness: 0.689
+    - _ShadowLineWidth: 0.0313
+    - _ShadowOffset: 0.02
+    - _ShadowSpotDensity: 82.69
+    - _ShadowSpotScale: 0.25
+    - _ShadowThicknessRand: 0.169
+    - _SingleHatchRandomScale: 19.49
+    - _SingleHatchRandomStrength: 0.445
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpotDensity: 135.5
+    - _SpotIntensity: 0.669
+    - _SpotScale: 0.5
+    - _SpotSize: 0.419
+    - _SrcBlend: 1
+    - _Thicken: 0.1
+    - _ThicknessRIntensity: 0.691
+    - _ThicknessRand: 0.637
+    - _ToonScale: 1.21
+    - _UVSec: 0
+    - _WhiteDotIntensity: 0.5
+    - _WhiteDotScale: 0.1
+    - _ZWrite: 1
+    - spotScale: 0.3
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BrightnessThreshold: {r: 0.9, g: 0.6, b: 0.3, a: 0.05}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

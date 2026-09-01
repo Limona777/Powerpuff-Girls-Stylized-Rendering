@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\assets\\shader\\speedlinepostprocessshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\speedlinepostprocessshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\assets\\shader\\basicfurshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\basicfurshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\assets\\shader\\basicfurshader_kk.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\basicfurshader_kk.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\assets\\shader\\comicshader2.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\comicshader2.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\assets\\shader\\outlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\outlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\assets\\shader\\outlineshader1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\outlineshader1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\assets\\scripts\\speedlinepostprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C769C18A-7178-E63B-5209-18C6C6CBB311}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speedlinepostprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeedLinePostProcessShader.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\SpeedLinePostProcessShader.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T12:21:16.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutlineShader1.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\OutlineShader1.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\OutlineShader1.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\OutlineShader1.shader",
+              "RelativeToolTip": "Assets\\Shader\\OutlineShader1.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T12:20:32.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutlineShader.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\OutlineShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\OutlineShader.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\OutlineShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\OutlineShader.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T12:20:14.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComicShader2.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\ComicShader2.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\ComicShader2.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\ComicShader2.shader",
+              "RelativeToolTip": "Assets\\Shader\\ComicShader2.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T12:15:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicFurShader_KK.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\BasicFurShader_KK.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\BasicFurShader_KK.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\BasicFurShader_KK.shader",
+              "RelativeToolTip": "Assets\\Shader\\BasicFurShader_KK.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T12:11:27.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicFurShader.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\BasicFurShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\BasicFurShader.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Shader\\BasicFurShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\BasicFurShader.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T12:08:44.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpeedLinePostProcess.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Powerpuff Girls Stylized Rendering\\Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeedLinePostProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T12:07:26.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

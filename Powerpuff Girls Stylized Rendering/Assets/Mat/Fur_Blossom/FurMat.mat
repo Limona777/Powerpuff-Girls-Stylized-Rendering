@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FurMat
+  m_Shader: {fileID: 4800000, guid: fa4d49e2a7f12484b94928271179effc, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _UVMODE_UV
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FurTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 85fd923ef8c72e940942d6ac61652595, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SkinTex:
+        m_Texture: {fileID: 2800000, guid: bc94416e779c2ca479aa4384df8d8332, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Backlit: 1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FresnelBias: 0.188
+    - _FresnelPower: 7.93
+    - _FresnelScale: 1.39
+    - _FurLength: 1
+    - _FurRadius: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightAdd: -0.49
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionPower: 2.35
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _PrimaryShift: 0.25
+    - _Roughness: 0.374
+    - _Scatter: 1
+    - _SecondaryShift: -0.05
+    - _Shift: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecIntensity: 3
+    - _SpecularHighlights: 1
+    - _SpecularPower: 101
+    - _SpecularScale: 1.22
+    - _SrcBlend: 1
+    - _Timing: 1.42
+    - _UVMODE: 0
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Force: {r: 0, g: 0, b: 0, a: 0}
+    - _FresnalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FurColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MarschnerParams: {r: 60, g: 40, b: 0.6, a: 0.15}
+    - _MarschnerR: {r: 1, g: 0, b: 0.77647066, a: 1}
+    - _MarschnerTRT: {r: 0, g: 0.22352934, b: 1, a: 1}
+    - _MarschnerTT: {r: 0.9748427, g: 0, b: 0, a: 1}
+    - _OcclusionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _PrimaryColor: {r: 0.003921509, g: 0, b: 1, a: 1}
+    - _SecondaryColor: {r: 0, g: 1, b: 0.004629612, a: 1}
+    - _SpecColor1: {r: 1, g: 0, b: 0, a: 1}
+    - _SpecColor2: {r: 0, g: 0.027633667, b: 1, a: 1}
+    - _SpecInfo: {r: 32, g: 0, b: 64, a: 0}
+    - _UVOffset: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
